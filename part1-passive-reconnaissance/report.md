@@ -13,7 +13,9 @@
 ## Ход работы
 
 ### 1. `penzgtu.ru`
-- **IP:** `83.234.199.28`, `83.234.199.70`
+- **IP:** <img width="550" height="104" alt="image" src="https://github.com/user-attachments/assets/36d616bb-cdf5-46a1-8f61-532eda46d7a5" />
+`83.234.199.28`, `83.234.199.70`
+  
 - **Редиректы:** цепочка через `/DDoS01/` → `www.penzgtu.ru`
 - **Веб-сервер:** nginx 1.14.1
 - **CMS:** TYPO3 4.5
