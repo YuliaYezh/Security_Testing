@@ -68,7 +68,6 @@
 - **Бэкенд:** PHP/5.6.27
 - **Обнаруженные поддомены:** через Dnsdumpster найдено 8 записей в AS `ERTH-PENZA-AS`
 - **Куки:** `fe_typo_user`
-- **Email:** `rector@penzgtu.ru`
 - **robots.txt:** отсутствует → потенциальный риск скрытой информации
 - **Google Dorks:** найдены страницы входа (`/auth/login`)
 
@@ -80,7 +79,6 @@
 - **Куки:** `MoodleSession` (HttpOnly)
 - **robots.txt:** блокирует Amazonbot, но разрешает основные поисковики
 - **sitemap.xml:** доступен
-- **Email:** `edumail@penzgtu.ru`
 
 #### `stinfo.penzgtu.ru`
 - **IP:** `83.234.199.70`
