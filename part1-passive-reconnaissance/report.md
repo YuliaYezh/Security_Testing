@@ -20,7 +20,6 @@
 - **CMS:** TYPO3 4.5
 - **PHP:** 5.6.27
 - **Куки:** `fe_typo_user`
-- **Email:** `rector@penzgtu.ru`
 - **robots.txt:** отсутствует
 - **sitemap.xml:** не найден
 - **Google Dorks:** `site:penzgtu.ru intitle:"Вход"` - найдены страницы авторизации.
@@ -33,7 +32,6 @@
 - **Куки:** `MoodleSession` (HttpOnly)
 - **robots.txt:** запрет для Amazonbot
 - **sitemap.xml:** доступен
-- **Email:** `edumail@penzgtu.ru`
 
 ### 3. `stinfo.penzgtu.ru`
 - **IP:** `83.234.199.70`
